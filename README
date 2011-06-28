@@ -1,2 +1,2 @@
 Code to simulate retweeting in a  basic Twitter network. A network is formed and messages propagate through based on a chance of retweeted at each user.
-Run Main (no arguments are needed) to start the network. Edit Main.java to change some of the network properties.
+The class Main.java shows examples of how the network can be initialised.
